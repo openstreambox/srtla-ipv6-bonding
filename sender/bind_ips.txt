@@ -1,0 +1,6 @@
+# One PUBLIC source IP per line = the uplinks to bond (one per modem/SIM).
+# Real deploy: one public IPv6 per cellular link, e.g.
+# 2400:xxxx:xxxx:xxxx::1     (carrier A)
+# 240b:xxxx:xxxx:xxxx::1     (carrier B)
+#
+# (Lines starting with # are comments; replace with your actual source IPs.)
